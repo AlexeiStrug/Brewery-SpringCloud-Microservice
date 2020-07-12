@@ -1,0 +1,4 @@
+com\example\beer\order\service\services\BeerOrderManagerImplTest$RestTemplateBuilderProvider.class
+com\example\beer\order\service\services\BeerOrderManagerImplTest.class
+com\example\beer\order\service\BeerOrderServiceApplicationTests.class
+com\example\beer\order\service\services\textcomponents\BeerOrderValidationListener.class

@@ -1,9 +1,9 @@
 # MSSC Beer Inventory Service
 
 # Responsibility
-• Manages Beer Inventory
-• Takes in inventory from brewing operations
-• Provides inventory for orders 
+- Manages Beer Inventory
+- Takes in inventory from brewing operations
+- Provides inventory for orders 
 
 # Default Port Mappings - Brewery Services
 | Service Name | Port | 

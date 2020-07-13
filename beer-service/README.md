@@ -1,9 +1,9 @@
 # Beer-Service
 
 # Responsibility
-• Manage ‘Beers’ - aka products
-• Manage brewing - aka manufacturing
-• List beers, and validate order lines for valid beers
+- Manage ‘Beers’ - aka products
+- Manage brewing - aka manufacturing
+- List beers, and validate order lines for valid beers
 
 # Default Port Mappings - Brewery Services
 | Service Name | Port | 

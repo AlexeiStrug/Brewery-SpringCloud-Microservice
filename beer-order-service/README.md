@@ -1,11 +1,11 @@
 # MSSC Beer Order Service
 
 # Responsibility
-• Manages Beer Orders
-• Will manage the lifecycle of an order - from order placement, to order shipment
-• Manages customers
-• Listens to order events
-• Call backs (aka Webhooks) to customers
+- Manages Beer Orders
+- Manage the lifecycle of an order - from order placement, to order shipment
+- Manages customers
+- Listens to order events
+- Call backs (aka Webhooks) to customers
 
 # Default Port Mappings - Brewery Services
 | Service Name | Port | 
